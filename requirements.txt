@@ -1,0 +1,6 @@
+Flask==2.0.3
+gTTS==2.2.4
+SpeechRecognition==3.8.1
+selenium==4.4.3
+wolframalpha==4.2.0
+pygame==2.1.2
