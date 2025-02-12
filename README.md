@@ -59,5 +59,5 @@ The project comes with a simple HTML/JS interface to interact with the assistant
 #### JavaScript:
 - Sends the voice/audio input to the backend.
 - Handles responses and plays back the audio.
-├── README.md            # Project documentation
+├── README.md 
 ``
